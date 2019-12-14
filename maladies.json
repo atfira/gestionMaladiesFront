@@ -1,0 +1,13 @@
+{
+    "maladies": [{
+            "id": 1,
+            "Nom": "Cancer",
+            "Number": 342
+        },
+        {
+            "id": 1,
+            "Nom": "Cardio",
+            "Number": 142
+        }
+    ]
+}
